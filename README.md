@@ -1,1 +1,1 @@
-# CodeNova-AI-SaaS-Platform
+# Project Practice Repository 
